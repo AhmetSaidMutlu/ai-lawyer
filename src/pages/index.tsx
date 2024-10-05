@@ -20,7 +20,7 @@ const Form = () => {
 
   return (
     <div className="max-w-xl mx-auto mt-10">
-      <h1 className="text-2xl font-bold mb-4">Dilekçe Oluşturucu</h1>
+      <h1 className="text-2xl font-bold mb-4">Dilekçe Oluşturucuu</h1>
       <form onSubmit={handleSubmit} className="space-y-4">
         <div>
           <label htmlFor="summary" className="block font-medium mb-1">Olay Özetii</label>
